@@ -33,12 +33,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: baidut
-  avatar: leonids-logo.png
+  name: 应 振强
+  avatar: avatar.png
   job: "北大研究生"
   bio: "生命不息，折腾不止"
   email:
-  disqus-shortname:
+  disqus-shortname: yzq
   twitter: #username
   facebook: #username
   google:
